@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/MyReactPortfolioWebsite/static/css/main.f416ede6.css",
-    "main.js": "/MyReactPortfolioWebsite/static/js/main.d3d3715c.js",
+    "main.js": "/MyReactPortfolioWebsite/static/js/main.db0fa19b.js",
     "static/js/787.128fc6e9.chunk.js": "/MyReactPortfolioWebsite/static/js/787.128fc6e9.chunk.js",
     "static/media/weddingpic.jpg": "/MyReactPortfolioWebsite/static/media/weddingpic.e91888013f2f3697e3a8.jpg",
     "static/media/Frederic_Mikhail_Resume.pdf": "/MyReactPortfolioWebsite/static/media/Frederic_Mikhail_Resume.464e7d02b12726d05cae.pdf",
     "static/media/profile.png": "/MyReactPortfolioWebsite/static/media/profile.7adc8e0e324cfbe95655.png",
     "index.html": "/MyReactPortfolioWebsite/index.html",
     "main.f416ede6.css.map": "/MyReactPortfolioWebsite/static/css/main.f416ede6.css.map",
-    "main.d3d3715c.js.map": "/MyReactPortfolioWebsite/static/js/main.d3d3715c.js.map",
+    "main.db0fa19b.js.map": "/MyReactPortfolioWebsite/static/js/main.db0fa19b.js.map",
     "787.128fc6e9.chunk.js.map": "/MyReactPortfolioWebsite/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f416ede6.css",
-    "static/js/main.d3d3715c.js"
+    "static/js/main.db0fa19b.js"
   ]
 }
