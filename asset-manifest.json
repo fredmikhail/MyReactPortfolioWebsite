@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fredmikhail/MyReactPortfolioWebsite/static/css/main.6a2114af.css",
+    "main.js": "/fredmikhail/MyReactPortfolioWebsite/static/js/main.a2880f62.js",
+    "static/js/787.128fc6e9.chunk.js": "/fredmikhail/MyReactPortfolioWebsite/static/js/787.128fc6e9.chunk.js",
+    "static/media/weddingpic.jpg": "/fredmikhail/MyReactPortfolioWebsite/static/media/weddingpic.e91888013f2f3697e3a8.jpg",
+    "static/media/Frederic_Mikhail_Resume.pdf": "/fredmikhail/MyReactPortfolioWebsite/static/media/Frederic_Mikhail_Resume.464e7d02b12726d05cae.pdf",
+    "static/media/profile.png": "/fredmikhail/MyReactPortfolioWebsite/static/media/profile.7adc8e0e324cfbe95655.png",
+    "index.html": "/fredmikhail/MyReactPortfolioWebsite/index.html",
+    "main.6a2114af.css.map": "/fredmikhail/MyReactPortfolioWebsite/static/css/main.6a2114af.css.map",
+    "main.a2880f62.js.map": "/fredmikhail/MyReactPortfolioWebsite/static/js/main.a2880f62.js.map",
+    "787.128fc6e9.chunk.js.map": "/fredmikhail/MyReactPortfolioWebsite/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2114af.css",
+    "static/js/main.a2880f62.js"
+  ]
+}
